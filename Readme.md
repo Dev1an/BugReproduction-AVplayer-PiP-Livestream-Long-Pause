@@ -1,6 +1,6 @@
 # Reproduction
 
-![Video](./Recordings/iPad13,8-iOS18.1.1-22B91-Annotated.mp4)
+https://github.com/user-attachments/assets/254f5451-36ec-4c01-ac5a-b7bb29e7e60a
 
 - Open `PiP.xcodeproj`
 - Run the `PiP` target on an iPadOS 18 device
